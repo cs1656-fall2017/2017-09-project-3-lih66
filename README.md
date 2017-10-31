@@ -23,7 +23,7 @@ You are asked to write a Python program, called `decision_tree.py` that will
 
 Your program should be invoked as:
 ```
-python3 decision_tree.py tree.txt test_data.csv
+python3 decision_tree.py tree.txt test.csv
 ```
 
 ### (1) Decision Tree Format
